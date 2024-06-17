@@ -26,17 +26,17 @@ Most of my projects are private and under an NDA, but I'm allowed to share snipp
 ### [Admin Dashboard for Fabric Sales Company] 🔗
 - **Description**: Developed an admin dashboard serving as a centralized app for managing products across multiple Shopify websites. The system synchronizes stock across all stores and the app, handles orders, and generates high-quality images for production printing of fabrics. Developed a complex setup involving multiple microservices built on Docker containers, including a storage system using MinIO.
 - **Technologies**: Next.js, Hasura, Docker, MinIO, Python, RabbitMQ, NestJS, TypeScript, Socket.io
-- **Link**: https://designer.fabricflair.com/
+- **Link**: <a href="https://designer.fabricflair.com/" target="_blank">designer.fabricflair.com</a>
 
 ### [Siento Scheduler App] 🔗
 - **Description**: Developed a scheduler app for a physical therapy company called Siento, where patients can register with their information and pick an appointment. Enhanced and maintained an existing Next.js/Hasura setup by fixing legacy errors, implementing serverless functions for scheduling, and integrating the Google Calendar API. The app leverages cloud functions and uses Vercel for deployment.
 - **Technologies**: Next.js, Hasura, TypeScript, Vercel, Google Calendar API
-- **Link**: https://www.sien.to/
+- **Link**: <a href="https://www.sien.to/" target="_blank">sien.to</a>
 
 ### [Sahbani Recruiting Web App] 🔗
-- **Description**: Created a user-friendly recruiting web app for Sahbani Recruiting. This platform allows job seekers to effortlessly add their profiles to a comprehensive database. They can track the status of their applications, view recruitment progress, and communicate with recruiters directly within the app.
+- **Description**: Led a team of two in developing a user-friendly recruiting web app for Sahbani Recruiting. This platform enables job seekers to easily create profiles and add them to a comprehensive database. Employers can post job opportunities, and the app facilitates semi-automatic job matching, with Sahbani Recruiting staff manually pairing job seekers with suitable job offers. Users can track their application status, view recruitment progress, and communicate directly with recruiters within the app.
 - **Technologies**: React, Node.js, Express, MongoDB
-- **Link**: https://sahbanirecruiting.com/
+- **Link**: <a href="https://sahbanirecruiting.com" target="_blank">sahbanirecruiting.com</a>
 
 ## 📈 GitHub Stats
 
