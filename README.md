@@ -26,17 +26,17 @@ Most of my projects are private and under an NDA, but I'm allowed to share snipp
 ### [Admin Dashboard for Fabric Sales Company] 🔗
 - **Description**: Developed an admin dashboard serving as a centralized app for managing products across multiple Shopify websites. The system synchronizes stock across all stores and the app, handles orders, and generates high-quality images for production printing of fabrics. Developed a complex setup involving multiple microservices built on Docker containers, including a storage system using MinIO.
 - **Technologies**: Next.js, Hasura, Docker, MinIO, Python, RabbitMQ, NestJS, TypeScript, Socket.io
-- **Screenshots**: 
+- **Link**: https://designer.fabricflair.com/
 
 ### [Siento Scheduler App] 🔗
 - **Description**: Developed a scheduler app for a physical therapy company called Siento, where patients can register with their information and pick an appointment. Enhanced and maintained an existing Next.js/Hasura setup by fixing legacy errors, implementing serverless functions for scheduling, and integrating the Google Calendar API. The app leverages cloud functions and uses Vercel for deployment.
 - **Technologies**: Next.js, Hasura, TypeScript, Vercel, Google Calendar API
-- **Screenshots**: 
+- **Link**: https://www.sien.to/
 
 ### [Sahbani Recruiting Web App] 🔗
 - **Description**: Created a user-friendly recruiting web app for Sahbani Recruiting. This platform allows job seekers to effortlessly add their profiles to a comprehensive database. They can track the status of their applications, view recruitment progress, and communicate with recruiters directly within the app.
 - **Technologies**: React, Node.js, Express, MongoDB
-- **Screenshots**: 
+- **Link**: https://sahbanirecruiting.com/
 
 ## 📈 GitHub Stats
 
