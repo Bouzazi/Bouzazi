@@ -38,10 +38,6 @@ Most of my projects are private and under an NDA, but I'm allowed to share snipp
 - **Technologies**: React, Node.js, Express, MongoDB
 - **Link**: <a href="https://sahbanirecruiting.com" target="_blank">sahbanirecruiting.com</a>
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bouzazi&show_icons=true&theme=radical)
-
 ## 📫 Contact Me
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project:
